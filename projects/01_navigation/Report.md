@@ -16,7 +16,10 @@ Here, I implement simple [Deep Q-Network (DQN)](https://storage.googleapis.com/d
 
 The pseudocode for the algorithm is given below from the [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) paper.
 
-<![Learning Algorithm][dqn]>
+<!--
+![Learning Algorithm][dqn]
+-->
+
 
 -----
 <div class="fig figcenter fighighlight">
