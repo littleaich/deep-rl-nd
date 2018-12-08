@@ -54,6 +54,39 @@ I employ a simple deep model comprising only fully connected (FC) layers as desc
 |     2    |  FC  |   32   |    32   |
 |     3    |  FC  |   32   |    4    |
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-uys7{border-color:inherit;text-align:center}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-uys7">Layer No</th>
+    <th class="tg-uys7">Type</th>
+    <th class="tg-uys7">#Input</th>
+    <th class="tg-uys7">#Output</th>
+  </tr>
+  <tr>
+    <td class="tg-uys7">1</td>
+    <td class="tg-uys7">FC</td>
+    <td class="tg-uys7">37</td>
+    <td class="tg-uys7">32</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">2</td>
+    <td class="tg-uys7">FC</td>
+    <td class="tg-uys7">32</td>
+    <td class="tg-uys7">32</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">3</td>
+    <td class="tg-uys7">FC</td>
+    <td class="tg-uys7">32</td>
+    <td class="tg-uys7">4</td>
+  </tr>
+</table>
+
 #### Training Statistics
 <!--
 ![Training Statistics][train-stats]
