@@ -46,20 +46,6 @@ According to the project requirement, **an average score of +13 over 100 consecu
 
 #### Architecture
 I employ a simple deep model comprising only fully connected (FC) layers as described below:
-&nbsp;
-| Layer No | Type | #Input | #Output | 
-&nbsp;
-|:--------:|:----:|:------:|:-------:|
-|     1    |  FC  |   37   |    32   |
-|     2    |  FC  |   32   |    32   |
-|     3    |  FC  |   32   |    4    |
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-uys7{border-color:inherit;text-align:center}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-uys7">Layer No</th>
