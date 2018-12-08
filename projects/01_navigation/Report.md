@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [dqn]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/dqn.png "Learning Algorithm"
-[train-stats]: https://github.com/littleaich/deep-rl-nd/tree/master/projects/01_navigation/figures/training.png "Training Statistics"
+[train-stats]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/training.png "Training Statistics"
 
 # Implementation Details
 Here, I implement simple [Deep Q-Network (DQN)](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), which is the off-policy Q-learning algorithm using deep network as the function approximator. I also employ the idea **experience replay** and **fixed-Q table** described in the DQN paper and also in the Udacity video lessons. Code files are listed below:
@@ -53,7 +53,17 @@ I employ a simple deep model comprising only fully connected (FC) layers as desc
 |     3    |  FC  |   32   |    4    |
 
 #### Training Statistics
+<!--
 ![Training Statistics][train-stats]
+-->
+
+<div class="fig figcenter fighighlight">
+  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/training.png" width="100%">
+  <div class="figcaption" style="color:gray; font-size:16px; font-family:monospace" align="center">
+  </div>
+</div>
+&nbsp;
+
 
 #### Future Work
 * Implementation of [Dueling network](https://arxiv.org/abs/1511.06581)
