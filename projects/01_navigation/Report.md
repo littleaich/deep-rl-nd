@@ -29,7 +29,6 @@ The pseudocode for the algorithm is given below from the [DQN](https://storage.g
 &nbsp;
 
 
-n_episodes=1000, max_t=1000, eps_start=1.0, eps_end=0.10, eps_decay=0.995
 #### Hyperparameters
 According to the project requirement, **an average score of +13 over 100 consecutive episodes** is considered solved and that is achievable within 1800 episodes. Using a simple fully connected neural network with 2 hidden layers of size 32 each, I was able to obtain that within 1000 episodes. Here are list of hyperparameters used for the experiment:
 * number of episodes: 1000
