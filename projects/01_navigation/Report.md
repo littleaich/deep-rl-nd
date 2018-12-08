@@ -46,7 +46,7 @@ According to the project requirement, **an average score of +13 over 100 consecu
 
 #### Architecture
 I employ a simple deep model comprising only fully connected (FC) layers as described below:
-| Layer No | Type | #Input | #Output |
+| Layer No | Type | #Input | #Output | &nbsp;
 |:--------:|:----:|:------:|:-------:|
 |     1    |  FC  |   37   |    32   |
 |     2    |  FC  |   32   |    32   |
