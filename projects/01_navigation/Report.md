@@ -58,7 +58,7 @@ I employ a simple deep model comprising only fully connected (FC) layers as desc
 -->
 
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/training.png" width="100%">
+  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/training.png" width="50%">
   <div class="figcaption" style="color:gray; font-size:16px; font-family:monospace" align="center">
   </div>
 </div>
