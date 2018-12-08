@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[dqn]: https://github.com/littleaich/deep-rl-nd/tree/master/projects/01_navigation/figures/dqn.png "Learning Algorithm"
+[dqn]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/dqn.png "Learning Algorithm"
 [train-stats]: https://github.com/littleaich/deep-rl-nd/tree/master/projects/01_navigation/figures/training.png "Training Statistics"
 
 # Implementation Details
