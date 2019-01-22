@@ -22,7 +22,7 @@ The pseudocode for the algorithm is given below from the [DDPG](https://arxiv.or
 
 
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/ddpg.png" width="50%">
+  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/ddpg.png" width="80%">
   <div class="figcaption" style="color:gray; font-size:16px; font-family:monospace" align="center">
   </div>
 </div>
