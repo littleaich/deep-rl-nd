@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[dqn]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/ddpg.png "Learning Algorithm"
+[ddpg]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/ddpg.png "Learning Algorithm"
 [train-stats]: https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/training.png "Training Statistics"
 
 # Implementation Details
@@ -22,7 +22,7 @@ The pseudocode for the algorithm is given below from the [DDPG](https://arxiv.or
 
 
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/dqn.png" width="50%">
+  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/ddpg.png" width="50%">
   <div class="figcaption" style="color:gray; font-size:16px; font-family:monospace" align="center">
   </div>
 </div>
@@ -74,7 +74,7 @@ I employ a simple deep model comprising only fully connected (FC) layers as desc
 -->
 
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/01_navigation/figures/training.png" width="50%">
+  <img src="https://github.com/littleaich/deep-rl-nd/blob/master/projects/02_continuous_control/figures/training.png" width="50%">
   <div class="figcaption" style="color:gray; font-size:16px; font-family:monospace" align="center">
   </div>
 </div>
