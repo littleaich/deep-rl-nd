@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This is the second project for the [**Deep Reinforcement Learning NanoDegree**](https://github.com/udacity/deep-reinforcement-learning) at Udacity. For this project, you will train a double-jointed arm agent to move to the target location. The agent will learn from information such as its position, rotation, velocity, and angular velocities.   
+This is the second project for the [**Deep Reinforcement Learning NanoDegree**](https://github.com/udacity/deep-reinforcement-learning) at Udacity. For this project, you will train a double-jointed arm agent to move to the target location. The agent will learn from the information such as its position, rotation, velocity, and angular velocities.   
 
 ![Trained Agent][image1]
 
