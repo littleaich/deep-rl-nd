@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This is the second project for the [**Deep Reinforcement Learning NanoDegree**](https://github.com/udacity/deep-reinforcement-learning) at Udacity. For this project, you will train an agent to navigate (and collect bananas!) in a large, square world. The agent will learn from information such as its velocity, along with ray-based perception of objects around its forward direction.   
+This is the second project for the [**Deep Reinforcement Learning NanoDegree**](https://github.com/udacity/deep-reinforcement-learning) at Udacity. For this project, you will train a double-jointed arm agent to move to the target location. The agent will learn from information such as its position, rotation, velocity, and angular velocities.   
 
 ![Trained Agent][image1]
 
